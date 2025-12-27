@@ -1,0 +1,3 @@
+property,unit,bedrooms,bathrooms,sqft,monthly_rent,occupied
+MapleRidgeHouse,Main,3,2,1600,3200,True
+MapleRidgeHouse,Basement,2,1,800,1600,True

@@ -1,0 +1,12 @@
+date,property,category,amount
+2023-01-05,MapleRidgeHouse,utilities,420
+2023-02-05,MapleRidgeHouse,utilities,390
+2023-03-05,MapleRidgeHouse,utilities,450
+2023-01-10,MapleRidgeHouse,insurance,180
+2023-02-10,MapleRidgeHouse,insurance,180
+2023-03-10,MapleRidgeHouse,insurance,180
+2023-01-20,MapleRidgeHouse,property_tax,310
+2023-02-20,MapleRidgeHouse,property_tax,310
+2023-03-20,MapleRidgeHouse,property_tax,310
+2023-02-18,MapleRidgeHouse,repairs,850
+2023-03-22,MapleRidgeHouse,maintenance,220

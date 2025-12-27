@@ -1,0 +1,10 @@
+date,property,unit,category,amount
+2023-01-01,MapleRidgeHouse,Main,rent,3200
+2023-02-01,MapleRidgeHouse,Main,rent,3200
+2023-03-01,MapleRidgeHouse,Main,rent,3200
+2023-01-01,MapleRidgeHouse,Basement,rent,1600
+2023-02-01,MapleRidgeHouse,Basement,rent,1600
+2023-03-01,MapleRidgeHouse,Basement,rent,1600
+2023-01-15,MapleRidgeHouse,Main,laundry,50
+2023-02-15,MapleRidgeHouse,Main,laundry,45
+2023-03-15,MapleRidgeHouse,Main,laundry,55
